@@ -1,0 +1,15 @@
+D:\Bridgelabs\CabiNVoiceGenRator-nUNitTest-master\CaBInVoiceGenerator\CaBInVoiceGenerator\obj\Debug\net6.0\CaBInVoiceGenerator.csproj.AssemblyReference.cache
+D:\Bridgelabs\CabiNVoiceGenRator-nUNitTest-master\CaBInVoiceGenerator\CaBInVoiceGenerator\obj\Debug\net6.0\CaBInVoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelabs\CabiNVoiceGenRator-nUNitTest-master\CaBInVoiceGenerator\CaBInVoiceGenerator\obj\Debug\net6.0\CaBInVoiceGenerator.AssemblyInfoInputs.cache
+D:\Bridgelabs\CabiNVoiceGenRator-nUNitTest-master\CaBInVoiceGenerator\CaBInVoiceGenerator\obj\Debug\net6.0\CaBInVoiceGenerator.AssemblyInfo.cs
+D:\Bridgelabs\CabiNVoiceGenRator-nUNitTest-master\CaBInVoiceGenerator\CaBInVoiceGenerator\obj\Debug\net6.0\CaBInVoiceGenerator.csproj.CoreCompileInputs.cache
+D:\Bridgelabs\CabiNVoiceGenRator-nUNitTest-master\CaBInVoiceGenerator\CaBInVoiceGenerator\bin\Debug\net6.0\CaBInVoiceGenerator.exe
+D:\Bridgelabs\CabiNVoiceGenRator-nUNitTest-master\CaBInVoiceGenerator\CaBInVoiceGenerator\bin\Debug\net6.0\CaBInVoiceGenerator.deps.json
+D:\Bridgelabs\CabiNVoiceGenRator-nUNitTest-master\CaBInVoiceGenerator\CaBInVoiceGenerator\bin\Debug\net6.0\CaBInVoiceGenerator.runtimeconfig.json
+D:\Bridgelabs\CabiNVoiceGenRator-nUNitTest-master\CaBInVoiceGenerator\CaBInVoiceGenerator\bin\Debug\net6.0\CaBInVoiceGenerator.dll
+D:\Bridgelabs\CabiNVoiceGenRator-nUNitTest-master\CaBInVoiceGenerator\CaBInVoiceGenerator\bin\Debug\net6.0\CaBInVoiceGenerator.pdb
+D:\Bridgelabs\CabiNVoiceGenRator-nUNitTest-master\CaBInVoiceGenerator\CaBInVoiceGenerator\obj\Debug\net6.0\CaBInVoiceGenerator.dll
+D:\Bridgelabs\CabiNVoiceGenRator-nUNitTest-master\CaBInVoiceGenerator\CaBInVoiceGenerator\obj\Debug\net6.0\refint\CaBInVoiceGenerator.dll
+D:\Bridgelabs\CabiNVoiceGenRator-nUNitTest-master\CaBInVoiceGenerator\CaBInVoiceGenerator\obj\Debug\net6.0\CaBInVoiceGenerator.pdb
+D:\Bridgelabs\CabiNVoiceGenRator-nUNitTest-master\CaBInVoiceGenerator\CaBInVoiceGenerator\obj\Debug\net6.0\CaBInVoiceGenerator.genruntimeconfig.cache
+D:\Bridgelabs\CabiNVoiceGenRator-nUNitTest-master\CaBInVoiceGenerator\CaBInVoiceGenerator\obj\Debug\net6.0\ref\CaBInVoiceGenerator.dll
